@@ -2,6 +2,8 @@
 *.DS_Store
 
 # Python
+/notebooks
+/checkpoints
 /build
 /dist
 __pycache__
